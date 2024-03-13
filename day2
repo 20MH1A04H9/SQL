@@ -1,0 +1,3 @@
+SELECT CustomerName, City FROM Customers;
+
+'Here, column1, column2, ... are the field names of the table you want to select data from.SELECT CustomerName, City FROM Customers;'
