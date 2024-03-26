@@ -1,0 +1,10 @@
+example for functions Max and Min
+ Min condition:
+SELECT MIN(column_name)
+FROM table_name
+WHERE condition;
+
+Max condition:
+SELECT MAX(column_name)
+FROM table_name
+WHERE condition;
